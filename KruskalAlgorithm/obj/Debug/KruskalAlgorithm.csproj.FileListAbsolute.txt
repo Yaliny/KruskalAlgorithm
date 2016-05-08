@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2012\Projects\KruskalAlgorithm\KruskalAlgorithm\bin\Debug\KruskalAlgorithm.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\KruskalAlgorithm\KruskalAlgorithm\bin\Debug\KruskalAlgorithm.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\KruskalAlgorithm\KruskalAlgorithm\obj\Debug\KruskalAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\KruskalAlgorithm\KruskalAlgorithm\obj\Debug\KruskalAlgorithm.Form1.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\KruskalAlgorithm\KruskalAlgorithm\obj\Debug\KruskalAlgorithm.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\KruskalAlgorithm\KruskalAlgorithm\obj\Debug\KruskalAlgorithm.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\KruskalAlgorithm\KruskalAlgorithm\obj\Debug\KruskalAlgorithm.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\KruskalAlgorithm\KruskalAlgorithm\obj\Debug\KruskalAlgorithm.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\KruskalAlgorithm\KruskalAlgorithm\obj\Debug\KruskalAlgorithm.Form2.resources
